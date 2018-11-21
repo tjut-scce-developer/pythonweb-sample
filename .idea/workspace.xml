@@ -2,300 +2,310 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a152e415-d5b8-4c25-97c6-b454f86b3f51" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flask_reder_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/my_route.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonweb-sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonweb-sample.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/awwwards.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/awwwards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/dripicon.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/dripicon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/entypo-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/entypo-icon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/extra-pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/extra-pages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/icons-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/icons-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/loader-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/loader-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/mail.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/mail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/maki-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/maki-icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/open-sans.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/open-sans.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/profile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/ribbons/awwwards_honorable_black_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_black_left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/ribbons/awwwards_honorable_black_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_black_right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/ribbons/awwwards_honorable_green_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_green_left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/ribbons/awwwards_honorable_green_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_green_right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/ribbons/awwwards_honorable_white_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_white_left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/ribbons/awwwards_honorable_white_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_white_right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/signin.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/signin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/social.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/social.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/css/weather-icons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/css/weather-icons.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/BebasNeue-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/BebasNeue-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/BebasNeue-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/BebasNeue-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/BebasNeue-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/BebasNeue-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/BebasNeue-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/BebasNeue-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/dripicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/dripicons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/dripicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/dripicons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/dripicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/dripicons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/dripicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/dripicons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/entypo.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/entypo.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/entypo.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/entypo.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/entypo.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/entypo.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/maki.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/maki.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/maki.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/maki.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/maki.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/maki.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/weathericons-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/weathericons-regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/weathericons-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/weathericons-regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/weathericons-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/weathericons-regular-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/font/weathericons-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/font/weathericons-regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/glyphicons-halflings-regular (1).eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular (1).eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/fonts/open-sans-light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/fonts/open-sans-light.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/ico/minus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/ico/minus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/bg9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/bg9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/credit/american-express.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/credit/american-express.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/credit/mastercard.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/credit/mastercard.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/credit/paypal2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/credit/paypal2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/credit/visa.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/credit/visa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/giftly.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/giftly.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/insta-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/insta-pic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/insta-pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/insta-pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/minus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/minus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/people-q-c-350-250-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/people-q-c-350-250-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/people-q-c-350-250-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/people-q-c-350-250-7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/people-q-c-350-250-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/people-q-c-350-250-8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/plus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/search-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/search-dark.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/search-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/search-white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/img/small-bg9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/img/small-bg9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/button/ladda/ladda.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/button/ladda/ladda.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/button/ladda/ladda.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/button/ladda/ladda.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/button/ladda/spin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/button/ladda/spin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/button/progressbutton.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/button/progressbutton.jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/calendar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/css/calendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/css/calendar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/img/tick.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/img/tick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/jstimezonedetect/jstz.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/jstimezonedetect/jstz.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/de-DE.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/de-DE.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/el-GR.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/el-GR.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/es-ES.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/es-ES.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/es-MX.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/es-MX.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/fr-FR.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/fr-FR.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/it-IT.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/it-IT.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/pl-PL.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/pl-PL.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/pt-BR.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/pt-BR.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/ru-RU.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/ru-RU.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/language/sv-SE.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/sv-SE.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/calendar/underscore/underscore-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/calendar/underscore/underscore-min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/barChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/barChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/chart-float-stacking.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/chart-float-stacking.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/chart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/jquery.flot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/jquery.flot.resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/jquery.flot.resize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/jquery.flot2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/jquery.flot2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/jquery.sparkline.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/jquery.sparkline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/lineChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/lineChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/polarChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/polarChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/radarChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/radarChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/chart/realTime.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/chart/realTime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/clock/date.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/clock/date.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/clock/jquery.clock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/clock/jquery.clock.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/colorPicker/bootstrap-colorpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/bootstrap-colorpicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/colorPicker/bootstrap-colorpicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/bootstrap-colorpicker.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/colorPicker/img/bootstrap-colorpicker/alpha.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/img/bootstrap-colorpicker/alpha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/colorPicker/img/bootstrap-colorpicker/hue.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/img/bootstrap-colorpicker/hue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/colorPicker/img/bootstrap-colorpicker/saturation.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/img/bootstrap-colorpicker/saturation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/countdown/jquery.countdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/countdown/jquery.countdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/custom/scriptbreaker-multiple-accordion-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/custom/scriptbreaker-multiple-accordion-1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/css/datatables.responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/css/datatables.responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/img/minus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/img/minus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/img/plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/img/plus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/lib/jquery.dataTables/css/DT_bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/css/DT_bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/lib/jquery.dataTables/images/sort_asc.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_asc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/lib/jquery.dataTables/images/sort_asc_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_asc_disabled.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/lib/jquery.dataTables/images/sort_both.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_both.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/lib/jquery.dataTables/images/sort_desc.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_desc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dataTable/lib/jquery.dataTables/images/sort_desc_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_desc_disabled.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/datepicker/bootstrap-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/datepicker/bootstrap-datepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/datepicker/bootstrap-datetimepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/datepicker/bootstrap-datetimepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/datepicker/clockface.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/datepicker/clockface.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/datepicker/clockface.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/datepicker/clockface.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/datepicker/datepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/datepicker/datepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dropZone/downloads/css/dropzone.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dropZone/downloads/css/dropzone.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dropZone/downloads/images/spritemap.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dropZone/downloads/images/spritemap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dropZone/downloads/images/spritemap@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dropZone/downloads/images/spritemap@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/dropZone/lib/dropzone.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/dropZone/lib/dropzone.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/flatvideo/jquery.fitvids.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/flatvideo/jquery.fitvids.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/css/fonts/footable (1).eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable (1).eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/css/fonts/footable.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/css/fonts/footable.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/css/fonts/footable.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/css/fonts/footable.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/css/footable-demos.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/css/footable-demos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/css/footable.core.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/css/footable.core.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/css/footable.standalone.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/css/footable.standalone.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/js/footable.filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/js/footable.filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/js/footable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/js/footable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/js/footable.paginate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/js/footable.paginate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/footable/js/footable.sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/footable/js/footable.sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/gage/jquery.easy-pie-chart.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/gage/jquery.easy-pie-chart.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/gage/jquery.easypiechart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/gage/jquery.easypiechart.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/gage/justgage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/gage/justgage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/gage/raphael.2.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/gage/raphael.2.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/aero.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/aero.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/aero@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/aero@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/blue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/blue@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/blue@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/flat.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/flat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/flat@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/flat@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/green.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/green.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/green@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/green@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/grey.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/grey.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/grey@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/grey@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/orange.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/orange@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/orange@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/pink.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/pink.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/pink@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/pink@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/purple.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/purple.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/purple@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/purple@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/red.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/red@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/red@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/yellow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/flat/yellow@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/yellow@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/jquery.icheck.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/jquery.icheck.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/line/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/line/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/line/line.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/line/line.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/iCheck/line/line@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/iCheck/line/line@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/idealform/css/jquery.idealforms.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/idealform/css/jquery.idealforms.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/idealform/img/datepicker.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/idealform/img/datepicker.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/idealform/img/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/idealform/img/loading.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/idealform/img/radiocheck.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/idealform/img/radiocheck.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/idealform/img/validation.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/idealform/img/validation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/idealform/jquery.idealforms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/idealform/jquery.idealforms.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/inputMask/jquery.maskedinput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/inputMask/jquery.maskedinput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/jhere-custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/jhere-custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/load.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/load.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/map/gmap3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/map/gmap3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/nano/jquery.nanoscroller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/nano/jquery.nanoscroller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/newsticker/jquery.newsTicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/newsticker/jquery.newsTicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/pace/pace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/pace/pace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/pace/themes/pace-theme-center-simple.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/pace/themes/pace-theme-center-simple.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/pnotify/jquery.pnotify.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/pnotify/jquery.pnotify.default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/pnotify/jquery.pnotify.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/pnotify/jquery.pnotify.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/preloader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/preloader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/progress-bar/number-pb.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/progress-bar/number-pb.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/progress-bar/number-pb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/progress-bar/number-pb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/progress-bar/progress-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/progress-bar/progress-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/progress-bar/src/jquery.velocity.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/progress-bar/src/jquery.velocity.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/search/jquery.quicksearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/search/jquery.quicksearch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/skin-select/jquery.cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/skin-select/jquery.cookie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/skin-select/skin-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/skin-select/skin-select.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/skin-select/skin-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/skin-select/skin-select.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/slidebars/slidebars.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/slidebars/slidebars.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/slidebars/slidebars.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/slidebars/slidebars.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/speed/canvasgauge-coustom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/speed/canvasgauge-coustom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/stackable/responsive-table.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/stackable/responsive-table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/stackable/stacktable.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/stackable/stacktable.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/stackable/stacktable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/stackable/stacktable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/switch/bootstrap-switch.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/switch/bootstrap-switch.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/switch/bootstrap-switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/switch/bootstrap-switch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tabs/acc-wizard.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tabs/acc-wizard.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tag/jquery.tagsinput.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tag/jquery.tagsinput.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tag/jquery.tagsinput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tag/jquery.tagsinput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/dist/wysihtml5-0.4.0pre.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/dist/wysihtml5-0.4.0pre.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/editor.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/lib/js/wysihtml5-0.3.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/lib/js/wysihtml5-0.3.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/parser_rules/advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/parser_rules/advanced.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/sceditor/minified/jquery.sceditor.bbcode.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/sceditor/minified/jquery.sceditor.bbcode.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/sceditor/minified/themes/famfamfam.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/sceditor/minified/themes/famfamfam.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/sceditor/minified/themes/square.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/sceditor/minified/themes/square.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/src/bootstrap-wysihtml5.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/src/bootstrap-wysihtml5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/textEditor/src/bootstrap3-wysihtml5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/textEditor/src/bootstrap3-wysihtml5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/timepicker/bootstrap-timepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/timepicker/bootstrap-timepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/timepicker/bootstrap-timepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/timepicker/bootstrap-timepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tip/jquery.tooltipster.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tip/jquery.tooltipster.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tip/tooltipster.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tip/tooltipster.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/toggle_close.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/toggle_close.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/ajax-loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/file.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/file.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/folder-closed.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/folder-closed.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/folder.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/folder.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-black-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-black-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-black.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-black.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-default-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-default-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-default.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-default.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-famfamfam-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-famfamfam-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-famfamfam.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-famfamfam.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-gray-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-gray-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-gray.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-gray.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-red-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-red-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/images/treeview-red.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-red.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/jquery.treeview.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/jquery.treeview.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/jquery.treeview.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/jquery.treeview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/lib/jquery.cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/lib/jquery.cookie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/tabelizer/jquery-ui-1.10.4.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/tabelizer/jquery-ui-1.10.4.custom.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/tabelizer/jquery.tabelizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/tabelizer/jquery.tabelizer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/tabelizer/tabelizer.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/tabelizer/tabelizer.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/treetable/javascripts/src/jquery.treetable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/treetable/javascripts/src/jquery.treetable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/treetable/stylesheets/jquery.treetable.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/treetable/stylesheets/jquery.treetable.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/treetable/stylesheets/jquery.treetable.theme.default.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/treetable/stylesheets/jquery.treetable.theme.default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/tree/treetable/vendor/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/tree/treetable/vendor/jquery-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/upload/demos/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/upload/demos/css/demo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/upload/demos/css/images/dark-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/upload/demos/css/images/dark-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/upload/demos/css/uploader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/upload/demos/css/uploader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/upload/demos/js/demo.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/upload/demos/js/demo.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/upload/src/dmuploader.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/upload/src/dmuploader.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/validate/img/valid.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/validate/img/valid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/validate/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/validate/jquery.validate.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/validate/validate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/validate/validate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/wizard/build/jquery.steps.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/wizard/build/jquery.steps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/wizard/css/jquery.steps.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/wizard/css/jquery.steps.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/wizard/jquery.stepy.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/wizard/jquery.stepy.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/wizard/jquery.stepy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/wizard/jquery.stepy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/wizard/lib/jquery.cookie-1.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/wizard/lib/jquery.cookie-1.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/assets/js/wizard/lib/modernizr-2.6.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/assets/js/wizard/lib/modernizr-2.6.2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/js/SetAddress.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/js/SetAddress.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/js/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webui/table-static.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/table-static.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/flask_route_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/flask_route_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open_src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open_src_ind/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flask_reder_template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/myblog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/awwwards.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/dripicon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/entypo-icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/extra-pages.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/icons-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/loader-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/mail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/maki-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/open-sans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/profile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_black_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_black_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_green_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_green_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_white_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/ribbons/awwwards_honorable_white_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/signin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/social.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/css/weather-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/BebasNeue-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/BebasNeue-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/BebasNeue-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/BebasNeue-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/dripicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/dripicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/dripicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/dripicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/entypo.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/entypo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/entypo.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/maki.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/maki.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/maki.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/weathericons-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/weathericons-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/weathericons-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/font/weathericons-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular (1).eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/fonts/open-sans-light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/ico/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/bg9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/credit/american-express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/credit/mastercard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/credit/paypal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/credit/visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/giftly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/insta-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/insta-pic2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/people-q-c-350-250-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/people-q-c-350-250-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/people-q-c-350-250-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/search-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/search-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/img/small-bg9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/button/ladda/ladda.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/button/ladda/ladda.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/button/ladda/spin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/button/progressbutton.jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/css/calendar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/img/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/jstimezonedetect/jstz.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/de-DE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/el-GR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/es-ES.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/es-MX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/fr-FR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/it-IT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/pl-PL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/ru-RU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/language/sv-SE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/calendar/underscore/underscore-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/barChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/chart-float-stacking.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/jquery.flot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/jquery.flot.resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/jquery.flot2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/jquery.sparkline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/lineChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/polarChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/radarChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/chart/realTime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/clock/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/clock/jquery.clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/bootstrap-colorpicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/bootstrap-colorpicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/img/bootstrap-colorpicker/alpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/img/bootstrap-colorpicker/hue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/colorPicker/img/bootstrap-colorpicker/saturation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/countdown/jquery.countdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/custom/scriptbreaker-multiple-accordion-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/css/datatables.responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/img/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/img/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/css/DT_bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_asc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dataTable/lib/jquery.dataTables/images/sort_desc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/datepicker/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/datepicker/bootstrap-datetimepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/datepicker/clockface.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/datepicker/clockface.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/datepicker/datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dropZone/downloads/css/dropzone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dropZone/downloads/images/spritemap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dropZone/downloads/images/spritemap@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/dropZone/lib/dropzone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/flatvideo/jquery.fitvids.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable (1).eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/css/fonts/footable.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/css/footable-demos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/css/footable.core.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/css/footable.standalone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/js/footable.filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/js/footable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/js/footable.paginate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/footable/js/footable.sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/gage/jquery.easy-pie-chart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/gage/jquery.easypiechart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/gage/justgage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/gage/raphael.2.1.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/flat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/flat@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/flat/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/jquery.icheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/line/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/line/line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/iCheck/line/line@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/idealform/css/jquery.idealforms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/idealform/img/datepicker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/idealform/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/idealform/img/radiocheck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/idealform/img/validation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/idealform/jquery.idealforms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/inputMask/jquery.maskedinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/jhere-custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/load.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/map/gmap3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/nano/jquery.nanoscroller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/newsticker/jquery.newsTicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/pace/pace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/pace/themes/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/pnotify/jquery.pnotify.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/pnotify/jquery.pnotify.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/preloader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/progress-bar/number-pb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/progress-bar/number-pb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/progress-bar/progress-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/progress-bar/src/jquery.velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/search/jquery.quicksearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/skin-select/jquery.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/skin-select/skin-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/skin-select/skin-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/slidebars/slidebars.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/slidebars/slidebars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/speed/canvasgauge-coustom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/stackable/responsive-table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/stackable/stacktable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/stackable/stacktable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/switch/bootstrap-switch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/switch/bootstrap-switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tabs/acc-wizard.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tag/jquery.tagsinput.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tag/jquery.tagsinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/dist/wysihtml5-0.4.0pre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/lib/js/wysihtml5-0.3.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/parser_rules/advanced.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/sceditor/minified/jquery.sceditor.bbcode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/sceditor/minified/themes/famfamfam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/sceditor/minified/themes/square.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/src/bootstrap-wysihtml5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/textEditor/src/bootstrap3-wysihtml5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/timepicker/bootstrap-timepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/timepicker/bootstrap-timepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tip/jquery.tooltipster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tip/tooltipster.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/toggle_close.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/file.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/folder-closed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/folder.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-black-line.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-black.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-default-line.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-default.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-famfamfam-line.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-famfamfam.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-gray-line.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-gray.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-red-line.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/images/treeview-red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/jquery.treeview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/jquery.treeview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/lib/jquery.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/tabelizer/jquery-ui-1.10.4.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/tabelizer/jquery.tabelizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/tabelizer/tabelizer.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/treetable/javascripts/src/jquery.treetable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/treetable/stylesheets/jquery.treetable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/treetable/stylesheets/jquery.treetable.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/tree/treetable/vendor/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/upload/demos/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/upload/demos/css/images/dark-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/upload/demos/css/uploader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/upload/demos/js/demo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/upload/src/dmuploader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/validate/img/valid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/validate/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/validate/validate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/wizard/build/jquery.steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/wizard/css/jquery.steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/wizard/jquery.stepy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/wizard/jquery.stepy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/wizard/lib/jquery.cookie-1.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/assets/js/wizard/lib/modernizr-2.6.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/js/SetAddress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/js/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/table-static.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/flask_hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/flask_route_test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -311,36 +321,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="flask_hello.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/flask_hello.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="108">
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flask_route_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/flask_route_test.py">
+      <file leaf-file-name="my_route.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/my_route.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            <state relative-caret-position="234">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#44#89#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flask_reder_template.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/flask_reder_template.py">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="252">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="500.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/500.html">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="myblog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myblog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -349,6 +366,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -369,6 +387,12 @@
         <option value="$PROJECT_DIR$/test/flask_route_test.py" />
         <option value="$PROJECT_DIR$/src/flask_reder_template.py" />
         <option value="$PROJECT_DIR$/src/webui/flask_reder_template.py" />
+        <option value="$PROJECT_DIR$/src/app/route.py" />
+        <option value="$PROJECT_DIR$/src/myblog.py" />
+        <option value="$PROJECT_DIR$/src/app/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/app/templates/__init__.py" />
+        <option value="$PROJECT_DIR$/src/app/__init__.py" />
+        <option value="$PROJECT_DIR$/src/app/my_route.py" />
       </list>
     </option>
   </component>
@@ -395,6 +419,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -411,23 +436,25 @@
               <item name="pythonweb-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonweb-sample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonweb-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonweb-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/myproject/my_smac_test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -543,26 +570,26 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.32997763" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,6 +604,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/flask_hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/flask_route_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/500.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flask_reder_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/flask_hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -691,23 +742,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wanwan/dance_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding>
-            <element signature="e#45#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wanwan/dance_link.py" />
     <entry file="file://$PROJECT_DIR$/src/templates/500.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test/flask_route_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -715,6 +757,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myblog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/templates/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/anaconda-lca/envs/sdn/Lib/site-packages/flask/templating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="133" column="47" selection-start-line="133" selection-start-column="47" selection-end-line="133" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda-lca/envs/sdn/Lib/site-packages/jinja2/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1491">
+          <caret line="1020" column="54" lean-forward="true" selection-start-line="1020" selection-start-column="54" selection-end-line="1020" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/my_route.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#44#89#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
